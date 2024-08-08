@@ -1,7 +1,8 @@
 streamlit
 openai
-langchain-openai
 langchain
 pandas
 openpyxl
-chromadb
+chromadb==0.3.22
+langchain-openai==0.0.10
+
