@@ -3,6 +3,6 @@ openai
 langchain
 pandas
 openpyxl
-chromadb==0.3.22
-langchain-openai==0.0.10
+chromadb==0.4.18
+langchain-openai==0.0.8
 
